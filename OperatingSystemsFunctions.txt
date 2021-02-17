@@ -6,3 +6,7 @@ helping you find information about your computer.
 you can create a vitural desktop as if you are using multiple screens at a single time
 This can be helpful to create more room for file management 
 This can be used for better effiency for working at home 
+
+you can use windows to open your phone on your desktop
+allowing use any of your phones features remotely
+the call function does not run through your desktop settings

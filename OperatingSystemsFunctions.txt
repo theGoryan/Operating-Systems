@@ -1,1 +1,8 @@
-Cortana assitant is a tool that can be used is numerious ways. such as setting reminders of dates and times. Searching for applications that you are unable to find within the start menu. helping you find information about your computer.
+Cortana assitant is a tool that can be used is numerious ways. 
+such as setting reminders of dates and times. 
+Searching for applications that you are unable to find within the start menu. 
+helping you find information about your computer.
+
+you can create a vitural desktop as if you are using multiple screens at a single time
+This can be helpful to create more room for file management 
+This can be used for better effiency for working at home 
